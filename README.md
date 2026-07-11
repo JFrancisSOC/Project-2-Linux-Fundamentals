@@ -46,16 +46,4 @@ SOC Analyst Takeaways
 
 This project strengthened my understanding of Linux fundamentals used in Security Operations Centers. I learned how to navigate the Linux file system efficiently, organize investigation data, preserve original evidence by working on copies, and quickly locate files during an investigation. These foundational skills will support future projects involving log analysis, threat hunting, and incident response.
 
-Next Mission
 
-Mission 3 – Linux Log Investigation
-
-Topics:
-
-grep
-head
-tail
-less
-Searching log files
-Investigating authentication logs
-Identifying suspicious activity
