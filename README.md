@@ -65,16 +65,16 @@
 ![Creating Investigation Workspace](02%20Creating%20Investigation%20Workspace.png)
 
 ### 03 – Creating Evidence Files
-![Creating Evidence Files](03%20Creating%20Evidence%20Files .png)
+![Creating Evidence Files](03%20Creating%20Evidence%20Files.png)
 
 ### 04 – Viewing Files with Cat
 ![Viewing Files with Cat](04%20Viewing%20Files%20with%20Cat.png)
 
 ### 05 – Copying Evidence Files
-![Copying Evidence Files](05%20Copying%20Evidence%20Files .png)
+![Copying Evidence Files](05%20Copying%20Evidence%20Files.png)
 
 ### 06 – Moving Files
-![Moving Files](06%20Moving%20Files .png)
+![Moving Files](06%20Moving%20Files.png)
 
 ### 07 – Deleting Files
 ![Deleting Files](07%20Deleting%20Files.png)
@@ -83,7 +83,7 @@
 ![Removing Directories](08%20Removing%20Directories.png)
 
 ### 09 – Finding Files
-![Finding Files](09%20Finding%20Files .png)
+![Finding Files](09%20Finding%20Files.png)
 
 ---
 
